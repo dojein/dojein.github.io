@@ -1,0 +1,20 @@
+body {
+    background: #cfc9c8;
+    font-size: 25px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    font-family: "Montserrat", sans-serif;
+    }
+    .title3{
+        font-weight: 900;
+        font-size: 34px;
+        font-style: normal;
+        font-family: "Klee One", cursive;
+        color: #4a0cbd;
+        line-height: normal;
+        margin-top: 0;
+        margin-bottom: 8px;
+    
+    }
